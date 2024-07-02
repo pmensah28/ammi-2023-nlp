@@ -1,2 +1,1 @@
-# ammi-2023-nlp
-ammi 2023 nlp course
+# Natural Language Processing (NLP) AMMI-2023/2024
